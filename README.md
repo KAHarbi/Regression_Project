@@ -10,10 +10,15 @@ project 2 : Web Scraping and Linear Regression Project
 In this project, we will use data from the [Ehsan](https://ehsan.sa/tyassarat?p=1) website it is a national platform that work to collecting donations for cases , Which shows us difficult cases whit details and that need a donate money. 
 Our goal from this project is to build a linear regression model that predict how many days need to complete the each case.
 
+## Aim and Objectives
+- How many Donation ?
+- What's ehsan data gender have it ?
 
 
 ## Data Description 
-In this project, We used data for cases donate from saudi arabia,
+In this project, we used data on donations from Saudi Arabia, we'll see the type of cases, the number of days we're expected to spend on the type of debt, the number of donors, and the fastest type of cases that pay off their debt.That all the data from [Ehsan](https://ehsan.sa/tyassarat?p=1)
+
+
 | Field Name          | Description                                                                                                |
 |---------------------|------------------------------------------------------------------------------------------------------------|
 |Age                  |The age of the person mentioned in the case                                                                 |
