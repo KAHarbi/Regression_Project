@@ -15,23 +15,22 @@ Our goal from this project is to build a linear regression model that predict ho
 ## Data Description 
 In this project, We used data for cases donate from saudi arabia,
 
-| Field Name        | Description                                                                                                |
-|-------------------|------------------------------------------------------------------------------------------------------------|
-|             |                                                                                   |
-|             |                                                                                           |
-|         |                                                                        |
-|             |                                                                                |
-|             |                                                                                        |
-|          |                                                                                                 |
-| 	        |                                                         |
-| 	        |                                                    |
-|        |                                                                 |
-|        | |
-|      |                                                             |
+| Field Name          | Description                                                                                                |
+|---------------------|------------------------------------------------------------------------------------------------------------|
+|Age                  |The age of the person mentioned in the case                                                                 |
+|Invoice number       |Each person has a unique invoice number                                                                     |
+|Debt                 |The amount owed by the person, Which must be paid in order to end the case                                  |
+|Rest of debt         |Remaining amount of debt to be repaid                                                                       |
+|Donation amount      |The amount collected and donated by website visitors, in order to complete the debt amount                  |
+|                     |                                                          |
+|               	    |                                                          |
+|             	      |                                                          |
+|                     |                                                          |
+|                     |                                                          |
+|                     |                                                          |
 
-Number of rows = 769 rows
-
-Number of columns = 11 columns
+>- Number of rows = 769 rows.
+>- Number of columns = 11 columns.
 
 ## tools
 #### Technologies
