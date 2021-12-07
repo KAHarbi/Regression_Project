@@ -14,7 +14,7 @@ let's look at how age affects the cost of treatment, and also look at patients o
 <br>
 <br>
 <br>
-![.](https://.)
+
 
 ![Distribution](https://user-images.githubusercontent.com/91732259/145007149-5e9df042-bad7-4456-ba21-2e10c61c83a2.png)
 
